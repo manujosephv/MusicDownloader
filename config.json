@@ -1,0 +1,46 @@
+{
+  "DEFAULT": {
+    "ROOT": "D:\\Music Download\\DownloadScripts",
+    "ACTION_FAILED_FILE_NAME" : "Something_Failed.txt"
+  },
+  "GOOGLEMUSIC": {
+    "APP_PASSWORD": "ipvsapqstmkooyjt",
+    "USER_NAME": "manujosephv@gmail.com",
+    "DUMP_FILE_NAME": "GooglePlayThumbsUpExport.txt",
+    "LAST_READ_FILE_NAME": "last_read_line.txt",
+    "DOWNLOAD_FAILED_FILE_NAME": "download_failed_google_music.txt"
+  },
+  "TODOIST": {
+    "PROJECT_NAME": "Inbox",
+    "TODOIST_API_KEY": "5e47c308c0e4bea68d7af794e2ec59ef5a541deb"
+  },
+  "MUSICTOOLS": {
+    "GOOGLE_DEVELOPER_KEY": "AIzaSyC2BKr3Xm4E1Ndzg5J3O5eIXoTU-6cch0A",
+    "YOUTUBE_API_SERVICE_NAME": "youtube",
+    "YOUTUBE_API_VERSION": "v3",
+    "CUSTOM_SEARCH_API_SERVICE_NAME": "customsearch",
+    "CUSTOM_SEARCH_API_VERSION": "v1",
+    "ALBUM_ART_SEARCH_ID": "005589030508889773928:pxhgor9bsjm",
+    "DOWNLOAD_PATH": "DownloadScripts\\downloaded_music",
+    "LAST_FM_KEY": "65a12742106c6fb80213ac344f60efc7",
+    "LAST_FM_SECRET": "fdd13187f923fb67ce604aed76babba0",
+    "DISCOGS_KEY": "hpNCxTnGUpwYsMuqGFgQcGzrwTFcvKyASmHcvZZb",
+    "ITUNES_PATH": "D:\\Music\\iTunes\\iTunes Library.xml"
+  },
+  "BILLBOARD": {
+    "HOT_100": "hot-100",
+    "TOP_HIPHOP": "r-b-hip-hop-songs",
+    "TOP_EDM": "dance-electronic-songs",
+    "DOWNLOAD_FAILED_FILE_NAME": "download_failed_billboard.txt",
+    "LAST_DOWNLOAD": "last_download.pkl",
+    "MAX_SONGS": 25
+  },
+  "SPOTIFY": {
+    "SPOTIPY_CLIENT_ID": "3f287f09db8e4980ac4fe8b6082886f6",
+    "SPOTIPY_CLIENT_SECRET": "0bb44d1efcfd497380c2148a7f1b9cb3"
+  },
+  "POCKET": {
+    "POCKET_CONSUMER_KEY": "71601-ca782ba4d6fa6304a714705d",
+    "POCKET_ACCESS_TOKEN": "ba6d78ac-b83e-977c-8326-970d62"
+  }
+}
